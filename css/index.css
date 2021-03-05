@@ -1,0 +1,48 @@
+header {
+  width: 1240px;
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 5rem;
+  font-weight: bold;
+}
+
+header img {
+  margin: 20px;
+}
+
+main {
+  width: 1240px;
+}
+
+main #bots {
+  text-align: center;
+}
+
+main #bots ul li {
+  height: 60px;
+  list-style: none;
+}
+
+main #bots ul li a {
+  text-decoration: none;
+}
+
+main #bots ul li img {
+  vertical-align: middle;
+  width: 30px;
+  height: 30px;
+}
+
+footer {
+  width: 1240px;
+}
+/*# sourceMappingURL=index.css.map */
